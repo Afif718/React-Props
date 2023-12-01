@@ -1,0 +1,11 @@
+
+.student-container{
+    font-size: 30px;
+    color: brown;
+    border: 1px solid gray;
+}
+
+.student-container p {
+    margin: 0px;
+    padding: 4px;
+}
